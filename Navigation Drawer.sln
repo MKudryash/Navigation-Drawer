@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navigation Drawer", "Navigation Drawer\Navigation Drawer.csproj", "{0C79D5ED-D114-4616-BE3C-FAD789FDE9BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C79D5ED-D114-4616-BE3C-FAD789FDE9BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C79D5ED-D114-4616-BE3C-FAD789FDE9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C79D5ED-D114-4616-BE3C-FAD789FDE9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C79D5ED-D114-4616-BE3C-FAD789FDE9BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F072CC5-5BD6-4FDA-A694-ACFC2DC49541}
+	EndGlobalSection
+EndGlobal
